@@ -16,9 +16,6 @@ This project demonstrates controlling two LEDs using an ESP32 in Access Point (A
   - WiFi.h
   - WebServer.h
 
-## WebPage
-![WebPage]([insert_image_url_here](https://github.com/NishadhHussainm/ESP32_Server_Using_Arduino_IDE/blob/master/Screenshot%202024-02-27%20160135.png))
-
 ## Installation and Usage
 
 1. Connect the LEDs to the ESP32 GPIO pins as defined in the code.
