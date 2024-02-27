@@ -17,7 +17,7 @@ This project demonstrates controlling two LEDs using an ESP32 in Access Point (A
   - WebServer.h
 
 ## WebPage
-![WebPage](insert_image_url_here)
+![WebPage]([insert_image_url_here](https://github.com/NishadhHussainm/ESP32_Server_Using_Arduino_IDE/blob/master/Screenshot%202024-02-27%20160135.png))
 
 ## Installation and Usage
 
