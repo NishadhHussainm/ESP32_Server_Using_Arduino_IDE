@@ -31,7 +31,6 @@ This project demonstrates controlling two LEDs using an ESP32 in Access Point (A
 - The code initializes the Wi-Fi network in AP mode with predefined credentials.
 - It sets up a web server on port 80.
 - Four endpoints are defined:
-  - `/`: Displays the main webpage with buttons to control the LEDs.
   - `/led1on`: Turns on LED1.
   - `/led1off`: Turns off LED1.
   - `/led2on`: Turns on LED2.
