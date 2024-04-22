@@ -22,7 +22,7 @@ This project demonstrates controlling two LEDs using an ESP32 in Access Point (A
 2. Upload the code to your ESP32 board using the Arduino IDE.
 3. Once uploaded, power up the ESP32.
 4. Connect to the Wi-Fi network named "ESP32" with the password "ESP32".
-5. Open a web browser and navigate to `http://192.168.192.188` (or the appropriate IP address).
+5. Open a web browser and navigate to `http://YOURIPADDRESS` (or the appropriate IP address).
 6. You should see a web interface with controls for LED1 and LED2.
 7. Click the buttons to toggle the LEDs on and off.
 
